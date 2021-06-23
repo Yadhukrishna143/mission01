@@ -40,7 +40,7 @@
   border-radius: 5px;
   border-style: none;
 }
-.child8 {
+.child10 .child8 {
   display: flex;
 }
 .child1 {
@@ -58,8 +58,13 @@
   font-size: 20px;
   position: absolute;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  padding-top: 5px;
+  padding-left: 3px;
+}
+.logo-cat {
+  color: white;
+  position: absolute;
+  padding-left: 5px;
 }
 
 .btn {
@@ -107,7 +112,7 @@
   width: 60px;
 }
 .btn-2 {
-  width: 150px;
+  width: 250px;
   color: #e34639;
   font-weight: bold;
   font-size: 14px;
